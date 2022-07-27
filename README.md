@@ -1,3 +1,2 @@
-# chatbot-
-This code will be a chat box that is interactive and will respond to what you write.
-It's a set code so it will only change with you answers.
+# The Candy Monster-
+This code will be an arcade style game. I'm trying to figure out how to use tkinter in the  replit IDE, but it's not working. If you know how please help! If not I will hopefully have it finished and working soon.
